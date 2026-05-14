@@ -1,0 +1,16 @@
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\bin\Debug\File_Manager.exe.config
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\bin\Debug\File_Manager.exe
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\bin\Debug\File_Manager.pdb
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.csprojAssemblyReference.cache
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.Properties.Resources.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.csproj.GenerateResource.cache
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.csproj.CoreCompileInputs.cache
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.exe
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.pdb
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.File_M.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.F_New.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.F_Ren.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.F_Red.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.F_Chg.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.F_Del.resources
+D:\МИРЭА\Операционные системы\OS_File_4\File_Manager\File_Manager\obj\Debug\File_Manager.Version.resources

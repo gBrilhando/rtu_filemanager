@@ -1,0 +1,6 @@
+﻿  Log_list.cpp
+D:\МИРЭА\Операционные системы\OS_File_4\logger\logger\Log_list.h(25,2): warning C4091: typedef : пропускается слева от "Log_list", когда ни одна переменная не объявлена
+D:\МИРЭА\Операционные системы\OS_File_4\logger\logger\Log_list.h(35,2): warning C4091: typedef : пропускается слева от "File_data", когда ни одна переменная не объявлена
+D:\МИРЭА\Операционные системы\OS_File_4\logger\logger\Log_list.cpp(22,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\МИРЭА\Операционные системы\OS_File_4\logger\logger\Log_list.cpp(402,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  logger.vcxproj -> D:\МИРЭА\Операционные системы\OS_File_4\logger\Debug\logger.exe
